@@ -11,7 +11,7 @@ HTML
 JavaScript
 CSS
 
-#Imagae
+# Image
 
 # Link
 https://garcia3325.github.io/Work-Day-Scheduler/
