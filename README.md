@@ -12,7 +12,7 @@ JavaScript
 CSS
 
 # Image
-![alt text]([http://url/to/img.png](https://github.com/garcia3325/Work-Day-Scheduler/blob/b0718d47a0bd3a43f507ca25bbf073935e2716e1/assets/Screen%20Shot%202022-06-28%20at%205.08.41%20PM.png))
+![application](assets/Screen Shot 2022-06-28 at 5.08.41 PM.png))
 
 # Link
 https://garcia3325.github.io/Work-Day-Scheduler/
